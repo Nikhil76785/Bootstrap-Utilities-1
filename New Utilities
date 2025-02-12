@@ -1,0 +1,48 @@
+<html>
+    <head>
+        
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+        </script>
+
+        <style>
+            body{text-align: center;}
+            h1{color: red;}
+            h2{color: blue;}
+        </style>
+    </head>
+
+    <body>
+        <div class="jumbotron jumbotron-fluid">
+            <h1>Games</h1>
+            <p>There are number of games and sports played all over the world, some of them were originated in India. Cricket is the
+            most famous sport which is played widely in many countries all over the world. Football and hockey are played in some of
+            the Indian states. Our country has won many Olympic gold medals in the sports of hockey, badminton, tennis, etc. Kabaddi
+            is the most popular sport generally played in the rural areas of India. Games such as chess, snooker, polo, kabaddi, etc
+            have their origin in India. Sports events related to tennis, badminton, cricket, hockey, etc are organized in our
+            country time to time.</p>
+        </div>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Sport_balls.svg" width="250px"><br>
+        <img src="https://gosharpener.com/content/uploads/photos/2024/06/sngine_d38fac84084ea933cb951b863185ccc3.png" width="250px"><br>
+        <img src="https://www.euroschoolindia.com/wp-content/uploads/2023/06/benefits-of-sports-for-students.jpg" width="250px"><br>
+
+        <h2>There are games like:</h2>
+        <button type="button" class="btn btn-primary">Cricket</button><br>
+        <button type="button" class="btn btn-danger">Tennis</button><br>
+        <button type="button" class="btn btn-secondary">Table Tennis</button><br>
+        <button type="button" class="btn btn-warning">Football</button><br>
+        <button type="button" class="btn btn-success">Basketball</button><br>
+        <button type="button" class="btn btn-primary">Hockey</button><br>
+        <button type="button" class="btn btn-danger">Badminton</button><br>
+        <button type="button" class="btn btn-secondary">Baseball</button><br>
+        <button type="button" class="btn btn-warning">Golf</button><br>
+        <button type="button" class="btn btn-success">Volley Ball</button>
+    </body>
+</html>
